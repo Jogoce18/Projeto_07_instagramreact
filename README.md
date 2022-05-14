@@ -1,7 +1,7 @@
 # Projeto_07_instagramreact
 
 <p align="center">
-  <img width="500px "src="https://user-images.githubusercontent.com/97575616/157592388-81c0e474-f2bc-40db-8aba-640a7843f70f.png">
+  <img width="500px "src="https://user-images.githubusercontent.com/80592317/168443790-945f06af-2a72-45a3-b35c-d32fc7a16999.jpg">
 </p>
 
 <h1 align="center">Projeto Instagram</h1>
